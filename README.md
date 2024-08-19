@@ -3,7 +3,7 @@
 I'm currently in professional reconversion. 
 I've found my new hobbie by coding on my own. having started with js I keep going on my path 🛤
 
-I'm willing to face new challenges but I'm mainly eager to learn. I love coding because there is always room to learn 😎
+I'm willing to face new challenges but I'm mainly eager to learn. I love coding because there is always room for learning 😎
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
