@@ -11,7 +11,7 @@ As an old Customer Success Manager, I have already been a stakeholder of a SAAS.
 Coding now, I have today understood how it's important to write a clean code, in way the code must be easy to understand and thus to maintain or to implement.
 I have seen how each update or new version released can be harmful due to regression, dependence, etc ... And I have already heard dev team talking to refactoring the whole code ...
 Further than just wasting time refactoring the code base,  we talking about cost, and this would be really painful especially for small compagnies. 
-This is especially what we all want to avoid!
+This is what we all want to avoid!
 
 I force myself to respect norms like establish in the book "Clean Code" by Robert C.Martin. Which I recommend you if you haven't read it yet.
 As developper, I try to produce the simplest code as possible, or I try because I'm a junior and I still have to learn.
