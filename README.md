@@ -20,7 +20,7 @@ Therefore, I think the "less the better" and "the simpler the better".
 It's no use to try to show off how smart you are by coding something only you can understand.
 Though the code will compile properly, the side effect will be tangible on longterm as well as it'll be tough to collaborate with you in a team.
 
-The code I wanna produce follows norms of "Clean Code". So please If you are a recruiter take time to get a look to my repository and simply read a few of code.
+The code I wanna produce follows norms of "Clean Code". So please If you are a recruiter take time to get a look to my repositories and simply read a few of code.
 I'm not asking for a full review project but to make you an opinion on my skills, so that you can assess if I'm the candidat that'll fit your need. 
 
 If you have any suggestions about my code, or anything that would help me to enhance it, I would appreciate your feedback.
