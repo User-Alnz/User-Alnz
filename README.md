@@ -26,7 +26,7 @@ I'm not asking for a full review project but to make you an opinion on my skills
 If you have any suggestions about my code, or anything that would help me to enhance it, I would appreciate your feedback.
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,)](https://skillicons.dev)
 
 <!---
 User-Alnz/User-Alnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
